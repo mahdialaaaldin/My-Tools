@@ -1,5 +1,5 @@
 ### My Useful Links 
-#### AI chatbot (Underline)
+#### AI chatbot
 - https://bard.google.com
 - https://chat.openai.com/chat
 - https://chatbot.theb.ai/
@@ -21,4 +21,8 @@
 
 #### Important Files
 - https://www.dropbox.com/sh/36idpfj2hr0e1ge/AADYJfZ1GBZQNWOhqjABnIc2a
+
+#### Extensions
+- https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo
+- https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
 
